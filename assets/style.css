@@ -6,3 +6,25 @@
     margin-right: auto;
 }
 
+#liribot {
+    border: 20cm;
+    border-block-color: black;
+    border-block-end-width: thick;
+}
+
+
+#chootwain {
+    border: darkblue;
+    border-block-end-width: thick;
+    border-bottom-width: 20px;
+    border-top-width: 20px;
+    height: 200px;
+}
+
+#botofliri {
+    border: darkblue;
+    border-block-end-width: thick;
+    border-bottom-width: 20px;
+    border-top-width: 20px;
+    height: 200px;
+}
