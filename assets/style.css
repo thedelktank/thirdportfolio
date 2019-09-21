@@ -6,25 +6,57 @@
     margin-right: auto;
 }
 
-#liribot {
-    border: 20cm;
-    border-block-color: black;
-    border-block-end-width: thick;
-}
-
-
 #chootwain {
-    border: darkblue;
+    border: black;
     border-block-end-width: thick;
     border-bottom-width: 20px;
     border-top-width: 20px;
-    height: 200px;
+    height: 300px;
+    width: 1000px;
+    position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #botofliri {
-    border: darkblue;
+    border: black;
     border-block-end-width: thick;
     border-bottom-width: 20px;
     border-top-width: 20px;
-    height: 200px;
+    height: 300px;
+    width: 1000px;
+    position: center;
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#trivialtrivia {
+    border: black;
+    border-block-end-width: thick;
+    border-bottom-width: 20px;
+    border-top-width: 20px;
+    height: 600px;
+    width: 1000px;
+    position: center;
+    float:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#psychoflow {
+    border: black;
+    border-block-end-width: thick;
+    border-bottom-width: 20px;
+    border-top-width: 20px;
+    height: 300px;
+    width: 1000px;
+    position: center;
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
